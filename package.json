@@ -6,6 +6,7 @@
   "scripts": {
     "clean": "rm -Rf dist",
     "start": "gulp",
+    "build": "gulp build",
     "goodStart": "npm run clean && npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
